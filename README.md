@@ -1,2 +1,2 @@
-# Data-Structures-in-Java
-Standard Data Structures implemented in Java
+# Data-Structures-and-Algorithms-in-Java
+Standard Data Structures and some algorithms implemented in Java
